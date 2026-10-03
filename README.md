@@ -73,6 +73,4 @@ The original SETU used ESP-NOW for short-range, point-to-point alert communicati
 
 Active development — core bidirectional LoRa communication and multi-mode menu system working; mesh routing and dashboard aggregation in progress.
 
-## License
 
-[Add your license here — e.g., MIT, GPL, etc.]
